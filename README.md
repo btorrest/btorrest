@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! What's up?</h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! What's up?</h1>
 
 ###
 
