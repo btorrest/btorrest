@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋! What's up?</h1>
+<h1 align="center">Hi 👋! I'm Bruno Torres</h1>
 
 ###
 
-<p align="center">My name is Bruno and I'm a Systems Engineer, from Perú.</p>
+<p align="center">A Systems Engineer, from Perú.</p>
 
 ###
 
