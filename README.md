@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A Systems Engineer, from Perú.</p>
+<h4 align="center">A Systems Engineer, from Perú.</h4>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">Contact Me</h4>
+<h3 align="left">Contact Me</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">Languages and Tools</h4>
+<h3 align="left">Languages and Tools</h3>
 
 ###
 
