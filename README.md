@@ -2,13 +2,22 @@
 
 ###
 
-<h4 align="center">A Systems Engineer, from Perú.</h4>
+<h3 align="center">Systems Engineer, from Perú</h3>
 
 ###
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=btorrest.btorrest&"  />
 </div>
+
+###
+
+<h3 align="left">About Me</h3>
+
+###
+
+- I'm 28 years old and I am from Lima, Perú.
+- I'm a MERN and PERN full stack developer.
 
 ###
 
