@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋! I'm Bruno Torres</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Bruno Torres</h1>
 
 ###
 
-<h3 align="center">Systems Engineer, from Perú</h3>
+<h3 align="center">A passionate Systems Engineer, from Perú</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="left">🚀 About Me</h3>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">Contact Me</h3>
+<h3 align="left">🔗 Contact Me</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
