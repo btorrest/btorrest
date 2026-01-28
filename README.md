@@ -17,7 +17,7 @@
 ###
 
 - I'm 28 years old and I am from Lima, Perú.
-- I'm a MERN and PERN full stack developer.
+- I'm a full stack developer.
 
 ###
 
