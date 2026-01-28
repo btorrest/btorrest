@@ -16,7 +16,7 @@
 
 ###
 
-- I'm 28 years old and I am from Lima, Perú.
+- I'm 28 years old and I'm from Lima, Perú.
 - I'm a full stack developer.
 
 ###
